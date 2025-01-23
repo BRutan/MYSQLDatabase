@@ -1,5 +1,5 @@
 #################################################
-# MYSQLDatabase.py
+# wrapper.py
 #################################################
 # Description:
 # * Object wraps functionality for mysql.connector
